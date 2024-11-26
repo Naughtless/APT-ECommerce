@@ -1,0 +1,13 @@
+[
+  {
+    "id": 33,
+    "name": "Straw Heels",
+    "description": "",
+    "image": "../assets/viewMain/img/clothes/jj4.jpg",
+    "type": "shoes",
+    "sex": "m",
+    "quantityInStock": 100,
+    "price": 56.39,
+    "discountPercent": 0
+  },
+  { "id": 32, "name": "Tommy Suit", "description": "", "image": "../assets/viewMain/img/clothes/l1.jpg", "type": "jacket", "sex": "m", "quantityInStock": 99, "price": 120.99, "discountPercent": 0 }, { "id": 31, "name": "Beige Blazer", "description": "", "image": "../assets/viewMain/img/clothes/o4.jpg", "type": "jacket", "sex": "m", "quantityInStock": 99, "price": 103.99, "discountPercent": 0 }, { "id": 30, "name": "Susie Dress", "description": "", "image": "../assets/viewMain/img/clothes/i4.jpg", "type": "dress", "sex": "f", "quantityInStock": 100, "price": 99.99, "discountPercent": 0 } ]
